@@ -12,3 +12,8 @@ if input is N bits , O/p can be Mbits
 An intermediate stage of encryption/decryption .. used in DES.
 Function that maps input to o/p can be defined by a table which is pre defined.
 <img width="1703" alt="image" src="https://user-images.githubusercontent.com/112304474/189804472-221fc818-4f7b-4d4c-9d5e-4f4cccecc083.png">
+
+# Types of Encryption:
+Block encryption and stream encryption
+modes of encryption: EBC, CBC
+Key length greater than equal to key strength.

@@ -16,7 +16,7 @@ Types of Crypto Protocol :
 Arbitrated: 3rd paty , Trusted person
 Adjudicated : Judge(3rd party) after process is done
 Self Enforcing: Every step in the process is verified
-Example
+Example:
 ========
 And the assumption is Alice knows Bob's public key, okay? Now, this sounds good. That is this is just a random number. It's a challenge response, but this random number has no information in it. Bob just encrypts it with his private key. The private key is not exposed. This final thing comes in and Alice upon getting this number can decrypt it using the public key.
 
